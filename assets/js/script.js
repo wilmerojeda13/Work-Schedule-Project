@@ -9,12 +9,11 @@ $(document).ready(function () {
         var text = $(this).siblings(".description").val();
         var time = $(this).parent().attr("id");
         
-
-
-
-        
-
+        //Save Text to Local Storage
+        localStorage.setItem(time, text);
     })
+
+    fuS
 
 
     
