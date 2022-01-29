@@ -23,4 +23,4 @@
 - Screenshot 
 
 ## Screenshots
-![ScreenShot] 
+![ScreenShot] (https://github.com/wilmerojeda13/Work-Schedule-Project/blob/main/assets/images/Screenshot%20.png)
